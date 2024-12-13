@@ -24,7 +24,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.linkedin.com/in/yousef-mehana-908716151/">「 Google Me 」</a>
+    <a href="https://scholar.google.com/citations?user=jB0tP34AAAAJ&hl=en">「 Google Me 」</a>
     <br>
     「 I am a Research Engineer from <b>Egypt</b> 」
     <br>
