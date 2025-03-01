@@ -42,7 +42,7 @@
  <img align="right" width="350" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="Coding gif"/>
   
  🔭 &emsp; Currently working on Autism Learning Platform with FastAPI & PyTorch<br/><br/>
- 🎓 &emsp; M.Sc Candidate @ AASTMT (GPA: 3.95/4.0)<br/><br/>
+ 🎓 &emsp; M.Sc Candidate @ AASTMT (GPA: 3.96/4.0)<br/><br/>
  🏆 &emsp; 2x MATE ROV Competition Winner 🥇🥈<br/><br/>
  👨🏫 &emsp; Mentored 30+ competition teams to ICPC qualifications<br/><br/>
  📧 &emsp; Reach me: youssefmohana7@gmail.com<br/><br/>
