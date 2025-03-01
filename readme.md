@@ -13,7 +13,7 @@
 
 <h3 align="center">
   <samp>&gt; Welcome to my GitHub profile!
-    <b><a target="_blank" href="www.linkedin.com/in/yousef-mehana-908716151">Youssef A. Mehanna</a></b>
+    <b><a target="_blank" href="https://www.linkedin.com/in/yousef-mehana-908716151/">Youssef A. Mehanna</a></b>
   </samp>
 </h3>
 
