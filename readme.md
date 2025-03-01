@@ -1,85 +1,98 @@
 <!--
 <h2 align="center">
-  Welcome to Al Siam World!
+  Mohamed Abdelhalim's Portfolio 🌟
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
 
-<!--
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/MohamedAbdelhalim">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Vision+Engineer;AI+Researcher;Full-Stack+Developer;M.Sc+Computer+Science&center=true&width=500&height=50&color=7F3FBF">
+  </a>
 </p>
 
- -->
-
-
-
-<!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="">Youssef Mehanna</a></b>
-        </samp>
+  <samp>&gt; Welcome to my GitHub profile!
+    <b><a target="_blank" href="www.linkedin.com/in/yousef-mehana-908716151">Youssef A. Mehanna</a></b>
+  </samp>
 </h3>
-
 
 <p align="center"> 
   <samp>
-    <a href="https://scholar.google.com/citations?user=jB0tP34AAAAJ&hl=en">「 Google Me 」</a>
+    <a href="https://scholar.google.com/citations?user=jB0tP34AAAAJ&hl=en">「 Google Scholar 」</a>
     <br>
-    「 I am a Research Engineer from <b>Egypt</b> 」
-    <br>
-    <br>
+    「 Research Engineer & Tech Mentor from <b>Egypt</b> 🇪🇬 」
   </samp>
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/yousef-mehana-908716151/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="youssef"/>
- </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
- 
- 
+  <a href="www.linkedin.com/in/yousef-mehana-908716151" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="youssefmohana7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
-<br />
 
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+<br/>
+
+# About Me 🚀
+
+<p align="left">
+ <img align="right" width="350" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="Coding gif"/>
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: youssefmohana7@gmail.com  <br/><br/>
-
-
+ 🔭 &emsp; Currently working on Autism Learning Platform with FastAPI & PyTorch<br/><br/>
+ 🎓 &emsp; M.Sc Candidate @ AASTMT (GPA: 3.95/4.0)<br/><br/>
+ 🏆 &emsp; 2x MATE ROV Competition Winner 🥇🥈<br/><br/>
+ 👨🏫 &emsp; Mentored 30+ competition teams to ICPC qualifications<br/><br/>
+ 📧 &emsp; Reach me: youssefmohana7@gmail.com<br/><br/>
 </p>
 
 <br/>
-<br/>
-<br/>
 
-## Use To Code
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/pyhon-563D7C?style=for-the-badge&logo=python&logoColor=white)
-![Pytorch](https://img.shields.io/badge/Pytorch-000000?style=for-the-badge&logo=Pytorch&logoColor=red)
-![Opencv](https://img.shields.io/badge/Opencv-000000?style=for-the-badge&logo=Opencv&logoColor=blue)
-![Ros](https://img.shields.io/badge/Ros-000000?style=for-the-badge&logo=Ros&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Blockchain](https://img.shields.io/badge/Blockchain-3D3D3D?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)
 
 <br/>
 
+## 🏆 Notable Projects
+
+### **IMITASD: Autism Assessment System** `PyTorch` `OpenCV` `MDPI`
+- Achieved 0.9 correlation with therapist scores using pose estimation
+- Real-time behavioral analysis (<3s processing)
+
+### **Autonomous Underwater Vehicle** `ROS` `YOLO` `GANs`
+- Developed vision system for underwater exploration
+- Integrated VR streaming with Unity/Flask
+
+### **Blockchain Health Platform** `Ethereum` `React` `FastAPI`
+- Secured patient data using smart contracts
+- Microservices architecture with WebSocket monitoring
+
+<br/>
+
+## 📈 GitHub Stats
+
+![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefmohana&show_icons=true&theme=radical)
 
 
-![Youssef Graph](https://github-readme-activity-graph.vercel.app/graph?username=youssefmohana&custom_title=Youssef%20Mehanna's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Youssef Graph](https://github-readme-activity-graph.vercel.app/graph?username=youssefmohana&custom_title=Youssef%20Mehanna's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)"
+
+<br/>
+
+## 🏅 Achievements
+
+- 🥈 2nd Place - MATE International ROV Competition 2021
+- 🥇 1st Place - MATE Egypt Regional 2021
+- 🏆 Ranked 2nd/210 B.Sc Graduates
+- 📚 Published in MDPI Journal (Computer Vision)
+- 👨💻 Mentored 5 ICPC Qualifiers
