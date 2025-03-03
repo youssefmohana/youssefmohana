@@ -6,7 +6,7 @@
 -->
 
 <p align="center">
-  <a href="https://github.com/MohamedAbdelhalim">
+  <a href="https://github.com/youssefmohana/youssefmohana/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Vision+Engineer;AI+Researcher;Full-Stack+Developer;M.Sc+Computer+Science;&center=true&width=500&height=50&color=#89cff0">
   </a>
 </p>
